@@ -1,2 +1,2 @@
-
-echo "School" update
+#!/bin/bash
+echo "School" 
